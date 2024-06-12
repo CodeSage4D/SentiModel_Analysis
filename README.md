@@ -18,10 +18,32 @@ This Streamlit web application analyzes the sentiment of text inputs using a pre
 git clone https://github.com/CodeSage4D/SentiModel_Analysis.git
 ```
 ## Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
 pip install -r requirements.txt
 
 ## Run the Streamlit app:
+```bash
 streamlit run app.py
+```
+# Project Directory: 
+    SentiAnalysis/
+    │
+    ├── data/
+    │   └── Emotions.csv
+    │
+    ├── model/
+    │   ├── best_model.pkl
+    │   └── vectorizer.pkl
+    │
+    ├── final.py
+    ├── modelTrain.py
+    ├── utils.py
+    ├── app.py
+    ├── feedback.py
+    └── venv/
+
 
 # Use View:
 1. Open the Streamlit app in your browser.
