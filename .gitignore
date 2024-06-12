@@ -58,4 +58,4 @@ Thumbs.db
 # data/Emotions.csv
 
 # Ignore the entire data folder
-data/
+# data/
