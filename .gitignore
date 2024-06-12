@@ -56,6 +56,9 @@ Thumbs.db
 
 # Ignore the dataset file
 # data/Emotions.csv
+Extra/Emotions.xlsx
+Extra/sentiment_dataset.csv
 
 # Ignore the entire data folder
 # data/
+Extra/
