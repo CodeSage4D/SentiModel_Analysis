@@ -1,0 +1,18 @@
+I am feeling so happy today, today is weekend and we are going for movie.
+
+
+Sure, here are some paragraphs for testing sentiment analysis:
+
+Positive:
+
+"I had an amazing day today! I woke up to a beautiful sunrise and went for a refreshing morning jog. After that, I spent quality time with my family, and we all had so much fun together. In the evening, I received a promotion at work, which made me extremely happy. To top it all off, I had a delicious dinner at my favorite restaurant. It was truly a perfect day filled with joy and positive experiences."
+
+
+Negative:
+
+"Today was a really tough day. I woke up feeling sick and couldn't get out of bed for hours. When I finally did, I realized I had missed an important meeting at work. My boss was not pleased, and I felt terrible about letting my team down. Later in the day, I had a disagreement with a close friend, which left me feeling hurt and upset. To make matters worse, I got stuck in traffic on the way home, and it seemed like nothing was going right. It was just a really bad day overall."
+
+
+Neutral:
+
+"Today was pretty uneventful. I spent most of the day working on some routine tasks at the office. There wasn't much excitement or anything out of the ordinary. During lunch, I had a simple meal and read a book. In the afternoon, I attended a few meetings, which were neither particularly interesting nor boring. After work, I went for a walk in the park, which was relaxing. Overall, it was a fairly typical day without any major highs or lows."

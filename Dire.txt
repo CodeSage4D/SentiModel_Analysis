@@ -1,15 +1,15 @@
-SentiAnalysis/
-│
-├── data/
-│   └── Emotions.csv
-│
-├── model/
-│   ├── best_model.pkl
-│   └── vectorizer.pkl
-│
-├── final.py
-├── modelTrain.py
-├── utils.py
-├── app.py
-├── feedback.py
-└── venv/
+    SentiAnalysis/
+    │
+    ├── data/
+    │   └── Emotions.csv
+    │
+    ├── model/
+    │   ├── best_model.pkl
+    │   └── vectorizer.pkl
+    │
+    ├── final.py
+    ├── modelTrain.py
+    ├── utils.py
+    ├── app.py
+    ├── feedback.py
+    └── venv/
