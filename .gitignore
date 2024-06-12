@@ -62,3 +62,5 @@ Extra/sentiment_dataset.csv
 # Ignore the entire data folder
 # data/
 Extra/
+Extra/Emotions.xlsx/
+Extra/sentiment_dataset.csv/
