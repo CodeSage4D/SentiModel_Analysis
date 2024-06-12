@@ -55,7 +55,7 @@ venv/
 Thumbs.db
 
 # Ignore the dataset file
-data/Emotions.csv
+# data/Emotions.csv
 
 # Ignore the entire data folder
 data/
